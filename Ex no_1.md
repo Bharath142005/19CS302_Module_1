@@ -19,7 +19,6 @@ printf ("%.1f",a);
 return 0;
 }
 
-
 ## Output:
 5.8
 
