@@ -25,7 +25,7 @@ int main() {
  return 0;
 }
 ## Output:
-input 50 90 78 \
+input 50 90 78 
 output: Total:253 Average:84.73
 
 
